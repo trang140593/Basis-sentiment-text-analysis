@@ -3,6 +3,7 @@
 **Sentiment Text analyst**
 
 Base on my first experience on studying this domain, I share to you this tutorial. It's a simple way to approach to the sentiment text analyst from 1st steps. I took a reference from an owner of this link: 
+ps: I am so gratefull this author because his tutorial is quite easy to understand for a begginer in NLP like me! 
 
 https://www.youtube.com/playlist?list=PLhTjy8cBISEoOtB5_nwykvB9wfEDscuEo
 
